@@ -1,5 +1,5 @@
 # NMS2020
-Modeling the microbiome of poor mices with bellyaches :mouse: :mouse2: :pill: :microscope: :bar_chart:
+Modeling the microbiome of poor mice with bellyaches :mouse: :mouse2: :pill: :microscope: :bar_chart:
 
 Data and reference model:
 
