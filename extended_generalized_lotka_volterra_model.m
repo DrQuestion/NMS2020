@@ -1,4 +1,4 @@
-% gLV model
+% egLV model
 function dXdt = extended_generalized_lotka_volterra_model(t, X, M_mu_eps)
 
 n_taxa = size(M_mu_eps,1);
